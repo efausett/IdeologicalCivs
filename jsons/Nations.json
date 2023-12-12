@@ -1,38 +1,82 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Deseret",
+		"leaderName": "The Prophet",
+		"adjective": ["The Saints"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Cultural",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Wars and rumors of wars, plagues and signs in the heavens...",
+		"startIntroPart2": "The 7th seal will soon be opened, the Lord will soon return, will you worthily prepare the kingdom for His return?",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "Your continuing harrassment of the saints will no longer be tolerated.",
+		"attacked": "You will regret attempting to infringe upon our homes, our families, and our rights of worship.",
+		"defeated": "The Lord's church may stop its official existance, but you will never stamp us out completely before the Lord's return.",
+		"introduction": "It's good to meet you! May we become friends and mutually benefit and support each others freedom.",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "Greetings, friend!",
+		"neutralLetsHearIt": ["What do you have to say?","Hello, friend! Go on.","You may begin, neighbor."],
+		"neutralNo": ["We must refuse.","We cannot agree with this.","This cannot be."],
+		"neutralYes": ["That is agreeable.","That can be done.","This will be to our mutual benefit."],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateHello": "Hello.",
+		"hateLetsHearIt": ["I may not trust you, but I will hear you."],
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateYes": ["This is difficult, but I must agree.","It will benefit the saints, so I must say yes."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "It is good to return to peace.",
+		"tradeRequest": "We believe this may be of mutual benefit to our peoples.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"outerColor": [29,75,150],
+		"innerColor": [237,237,235],
+
+		"favoredReligion": "Christianity",
+		"uniqueName": "Stakes of Zion",
+		"uniqueText": "The organization of the restored church allows for local adaptation, and grandscale cooperation. This leads to +20% production, -20% unhappiness from population, and an increase of faith.",
+		"uniques": ["[+20]% Production towards any buildings that already exist in the Capital",
+			"[-25]% Unhappiness from [Population] [in all cities]",
+			"[+2 Faith] [in all cities]"],
+
+		"cities": ["The New Jerusalem","Lehi","Nephi","Mormon","New Bethlahem","Moroni","Youngtown","New Provo",
+			"Jordan River","Eden","Hyrum","New Cumorah","Smithville","Goshen","New Payson", "Samaria", "New Bonneville"]
+	},
+	{
+		"name": "Constitutional America",
+		"leaderName": "The President",
+		"adjective": ["Americans"],
+		"preferredVictoryType": "Scientific",
+
+		"startIntroPart1": "America has had the opportunity to abide by its founding principles, or to stray to tyranny.",
+		"startIntroPart2": "Many doubt that America would have been able to succeed as it has without compromising what it stands for at times. Will you have the courage to lead by truth, justice, and liberty for all?",
+		
+		"declaringWar": "You have become a threat to the free world.",
+		"attacked": "You will now feel the wrath of patriots fighting and dying to protect their freedoms, their country, and their family.",
+		"defeated": "You may have defeated America, but the flame of liberty will never be completely extinguished.",
+		"introduction": "May our citizens freely trade with one another to the benefit of all.",
+		
+		"neutralHello": "Hello.",
+		"neutralLetsHearIt": ["What is your interest in our country?","Do you have something to propose?"],
+		"neutralNo": ["We must refuse.","This will not be to our mutual benefit."],
+		"neutralYes": ["That is agreeable.","That can be done.","This will be to our mutual benefit."],
+
+		"hateHello": "Hello...",
+		"hateLetsHearIt": "What do you want?",
+		"hateNo": ["Absolutely not!","You cannot be serious!"],
+		"hateYes": "Though we've had our disagreements, this will be good for our people.",
+		
+		"afterPeace": "May we now return to focusing on the good of our own peoples instead of conquest.",
+		"tradeRequest": "We believe this may be of mutual benefit to our peoples.",
+
+		"outerColor": [29,75,150],
+		"innerColor": [237,237,235],
+
+		"favoredReligion": "Christianity",
+		"uniqueName": "Stakes of Zion",
+		"uniqueText": "The organization of the restored church allows for local adaptation, and grandscale cooperation. This leads to +20% production, -20% unhappiness from population, and an increase of faith.",
+		"uniques": ["[+20]% Production towards any buildings that already exist in the Capital",
+			"[-25]% Unhappiness from [Population] [in all cities]",
+			"[+2 Faith] [in all cities]"],
+
+		"cities": ["Washington", "Jamestown", "New York", "Boston"]
 	}
 ]

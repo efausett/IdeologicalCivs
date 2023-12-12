@@ -1,25 +1,63 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
-		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"name": "Meetinghouse",
+		"replaces": "Shrine",
+		"uniqueTo": "Deseret",
+		"cost": 40,
+		"happiness": 1,
+		"culture": 1,
+		"faith": 2,
+		"maintenance": 1,
+		"requiredTech": "Pottery"
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"name": "Bishop's Storehouse",
+		"replaces": "Granery",
+		"uniqueTo": "Deseret",
+		"food": 2,
+		"faith": 1,
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Food] from [Deer] tiles [in this city]",
+			"[+1 Food] from [Bananas] tiles [in this city]",
+			"[+1 Food] from [Wheat] tiles [in this city]"],
+		"requiredTech": "Pottery"
+	},
+	{
+		"name": "Temple of the Lord",
+		"replaces": "Temple",
+		"uniqueTo": "Deseret",
+		"faith": 3,
+		"percentStatBonus": {"faith": 25},
+		"requiredBuilding": "Shrine",
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy",
+		"uniques": ["Hidden when religion is disabled", "Destroyed when the city is captured"]
+	},
+	{
+		"name": "New Jerusalem College",
+		"replaces": "National College",
+		"uniqueTo": "Deseret",
+		"cost": 125,
+		"science": 3,
+		"culture": 1,
+		"faith": 2,
+		"isNationalWonder": true,
+		"percentStatBonus": {"science": 50},
+		"uniques": ["Requires a [Library] in all cities", "Cost increases by [30] per owned city"],
+		"requiredTech": "Philosophy"
+	},
+	{
+		"name": "New Jerusalem University",
+		"replaces": "Oxford University",
+		"uniqueTo": "Deseret",
+		"cost": 125,
+		"science": 3,
+		"culture": 1,
+		"faith": 2,
+		"isNationalWonder": true,
+		"uniques": ["Requires a [University] in all cities", "Free Technology", "Cost increases by [30] per owned city"],
+		"requiredTech": "Education"
 	}
 ]
