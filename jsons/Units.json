@@ -19,7 +19,7 @@
 		"strength": 36,
 		"cost": 215,
 		"requiredTech": "Rifling",
-		"upgradesTo": "Rifleman",
+		"upgradesTo": "Great War Infantry",
 		"obsoleteTech": "Replaceable Parts",
 		"uniques": ["Ignores terrain cost"],
 		"promotions": ["Drill I"],
