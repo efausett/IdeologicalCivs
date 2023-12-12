@@ -12,7 +12,7 @@
 	},
 	{
 		"name": "Bishop's Storehouse",
-		"replaces": "Granery",
+		"replaces": "Granary",
 		"uniqueTo": "Deseret",
 		"food": 2,
 		"faith": 1,

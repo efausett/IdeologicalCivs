@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Pioneer",
-		"unitType": "Civillian",
+		"unitType": "Civilian",
 		"uniqueTo": "Deseret",
 		"replaces": "Settler",
 		"movement": 2,
