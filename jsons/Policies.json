@@ -598,7 +598,7 @@
                 "column": 3
             },
             {
-                "name": "Autocracy Complete",
+                "name": "Authoritarian Complete",
                 "uniques": [
                     "[+25]% Strength <when attacking> <for [Military] units> <for [50] turns>",
                     "May buy [Great General] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>",
@@ -684,7 +684,7 @@
                 "column": 3
             },
             {
-                "name": "Order Complete",
+                "name": "Globalism Complete",
                 "uniques": [
                     "[+2 Food, +2 Production, +2 Science, -1 Gold] [in all cities]"
                 ]
@@ -738,8 +738,8 @@
                 "column": 5
             },
             {
-                "name": "Socialism",
-                "requires": ["Planned Economy"],
+                "name": "Gathering Places",
+                "requires": ["Divine Order", "Personal Discipleship"],
                 "uniques": [
                     "[-15]% maintenance cost for buildings [in all cities]"
                 ],
@@ -747,8 +747,8 @@
                 "column": 3
             },
             {
-                "name": "Communism",
-                "requires": ["Socialism"],
+                "name": "Heaven on Earth",
+                "requires": ["Gathering Places"],
                 "uniques": [
                     "[+2 Production] [in all cities]",
                     "[+1 Production] from every [Mine]",
@@ -758,7 +758,7 @@
                 "column": 3
             },
             {
-                "name": "Order Complete",
+                "name": "Theocracy Complete",
                 "uniques": [
                     "[+2 Food, +2 Production, +2 Science, +2 Gold, +2 Culture] [in all cities]",
                     "May buy [Great Engineer] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
