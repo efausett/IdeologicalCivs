@@ -238,7 +238,7 @@
                 "column": 5
             },
             {
-                "name": "Theocracy",
+                "name": "Theocratic Regieme",
                 "uniques": ["[+10]% [Gold] from every [Temple]"],
                 "requires": ["Organized Religion"],
                 "row": 2,
