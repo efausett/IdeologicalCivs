@@ -1,0 +1,74 @@
+Overall Vision :
+To overall each feature in a way that makes the game more fun for me to play.
+This will include the creation of new civilizations, units, buildings, policies,
+techs, and beliefs. It will also include making adjustments to existing things.
+I will also create a new economic victory condition.
+
+I will want to eventually edit all the civilizations I can to buff them and make them far
+unique.
+
+Policy Adjustments :
+Different Ideologies will include: Freedom, Authoritarian, Globalist, Theocratic
+The ideologies will have focus on different victory conditions.  Freedom will lend itself
+to the new economic victory as well as secondarily to a cultural and scientific victory.
+Authoritarian will lend itself primarily to a domination victory, and it could maybe
+be used for a scientific victory.  The Globalist will lend itself to a diplomacy victory,
+with a secondary focus on scientific.  The Theocratic will primarily focus on a religious
+victory, with a secondary focus on cultural.
+
+Freedom :
+ - Free Market (Economic buildings provide an additional +1 gold.)
+ - Liberalism (Scientific buildings provide +1 culture.)
+ - Freedom of Information 
+ - Patriotism
+ - Constitution
+ - Educational Competition
+
+Authoritarian :
+ - Nationalist Fervor (Cultural buildings provide +1 production.)
+ - Military Coup (Military unit production increased by 75%.)
+ - State Media (Unhappiness reduced by 15%.)
+ - Predesginated Careers (+3 Production, -1 Happiness per city.)
+ - Weapons Research Projects (Military buildings provide +2 technology.)
+ - Rationing (Unit maintainance cost reduced by 50%.)
+
+Globalist :
+ - Critical Theory
+ - Corporate Environmentalism
+ - Corporate Media
+ - International Treaty
+ - Great Reset
+ - New World Order 
+
+Theocratic :
+ - Divinely Chosen Leadership
+ - Unity of the Faith
+ - Religious Cooperation
+ - Apologetics
+ - Firm in the Faith
+ - Divine Purpose
+
+Civilizations to Create :
+Deseret :
+
+
+Constitutional America :
+
+
+Globalist America :
+
+
+Iran Kaliphate : 
+
+
+Civilizations to Change :
+Russia :
+
+
+Germany :
+
+
+China :
+
+
+Saudi Arabia : 
