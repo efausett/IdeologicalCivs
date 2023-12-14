@@ -484,7 +484,7 @@
         },
         "uniques": [
             "[+25]% Great Person generation [in all cities]",
-            "Only available <before adopting [Authoritarian]>",
+            "Only available <before adopting [Autocracy]>",
             "Only available <before adopting [Globalism]>",
             "Only available <before adopting [Theocracy]>"
         ],
@@ -548,7 +548,7 @@
         },
         "uniques": [
             "[+1 Happiness] [in all cities]",
-            "Only available <before adopting [Authoritarian]>",
+            "Only available <before adopting [Autocracy]>",
             "Only available <before adopting [Theocracy]>",
             "Only available <before adopting [Freedom]>"
         ],
@@ -633,7 +633,7 @@
         },
         "uniques": [
             "[+1 Happiness] [+1 Faith] [in all cities]",
-            "Only available <before adopting [Authoritarian]>",
+            "Only available <before adopting [Autocracy]>",
             "Only available <before adopting [Globalism]>",
             "Only available <before adopting [Freedom]>"
         ],
