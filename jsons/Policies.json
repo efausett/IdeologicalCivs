@@ -565,7 +565,7 @@
                 "name": "Environmentalism",
                 "uniques": [
                     "[+25]% [Science] from every [Factory]",
-                    "[-5]% Gold [in all cities]"
+                    "[-5]% [Gold] [in all cities]"
                 ],
                 "row": 1,
                 "column": 3
@@ -573,9 +573,9 @@
             {
                 "name": "Public Re-Education Plan",
                 "uniques": [
-                    "[-15]% Unhappiness [in all cities]>",
+                    "[-15]% Unhappiness [in all cities]",
                     // Change the below to only impact cities with more then 5 population.
-                    "+2 Science [in all cities]"
+                    "[+2 Science] [in all cities]"
                 ],
                 "row": 1,
                 "column": 5
@@ -632,7 +632,7 @@
             "Scientific": 40
         },
         "uniques": [
-            "[+1 Happiness] [+1 Faith] [in all cities]",
+            "[+1 Happiness, +1 Faith] [in all cities]",
             "Only available <before adopting [Autocracy]>",
             "Only available <before adopting [Globalism]>",
             "Only available <before adopting [Freedom]>"
@@ -644,7 +644,7 @@
                 "uniques": [
                     "[+1 Production] [in all cities]",
                     // Figure out the correct syntax for below.
-                    "+10% Production [in all cities]"
+                    "[+10]% [Production] [in all cities]"
                 ],
                 "row": 1,
                 "column": 1
