@@ -28,6 +28,7 @@
 		"replaces": "Temple",
 		"uniqueTo": "Deseret",
 		"faith": 3,
+		"happiness": 1,
 		"percentStatBonus": {"faith": 25},
 		"requiredBuilding": "Shrine",
 		"maintenance": 2,
@@ -59,5 +60,17 @@
 		"isNationalWonder": true,
 		"uniques": ["Requires a [University] in all cities", "Free Technology", "Cost increases by [30] per owned city"],
 		"requiredTech": "Education"
+	},
+	{
+		"name": "Garden of the Temple",
+		"replaces": "Garden",
+		"uniqueTo": "Deseret",
+		"requiredBuilding": "Temple of the Lord",
+		"faith": 1,
+		"happiness": 1,
+		"uniques": ["[+25]% Great Person generation [in this city]"],
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"requiredTech": "Theology"
 	}
 ]

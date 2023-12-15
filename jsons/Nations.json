@@ -35,7 +35,8 @@
 		"uniqueText": "",
 		"uniques": ["[+1 Production] per [2] population [in all cities]",
 			"[-50]% Unhappiness from [Population] [in all cities]",
-			"[+2 Faith] [in all cities]"],
+			"[+2 Faith] [in all cities]",
+			"May choose [1] additional belief(s) of any type when [founding] a religion"],
 
 		"cities": ["The New Jerusalem","Lehi","Nephi","Mormon","Bethlahem","Moroni","Provo",
 			"Jordan River","Eden","Hyrum","Cumorah","Brigham City","Goshen","Payson", "Samaria", "Bonneville",
