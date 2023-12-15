@@ -32,13 +32,14 @@
 
 		"favoredReligion": "Christianity",
 		"uniqueName": "Stakes of Zion",
-		"uniqueText": "The organization of the restored church allows for local adaptation, and grandscale cooperation. This leads to +20% production, -20% unhappiness from population, and an increase of faith.",
-		"uniques": ["[+20]% Production towards any buildings that already exist in the Capital",
-			"[-25]% Unhappiness from [Population] [in all cities]",
+		"uniqueText": "",
+		"uniques": ["[+1 Production] per [2] population [in all cities]",
+			"[-50]% Unhappiness from [Population] [in all cities]",
 			"[+2 Faith] [in all cities]"],
 
-		"cities": ["The New Jerusalem","Lehi","Nephi","Mormon","New Bethlahem","Moroni","Youngtown","New Provo",
-			"Jordan River","Eden","Hyrum","New Cumorah","Smithville","Goshen","New Payson", "Samaria", "New Bonneville"]
+		"cities": ["The New Jerusalem","Lehi","Nephi","Mormon","Bethlahem","Moroni","Provo",
+			"Jordan River","Eden","Hyrum","Cumorah","Brigham City","Goshen","Payson", "Samaria", "Bonneville",
+			"Taylorsville", "Jacob", "Mona", "Logan", "Jospeh"]
 	},
 	{
 		"name": "Constitutional America",
